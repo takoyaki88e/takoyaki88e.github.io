@@ -1,10 +1,4 @@
-body {
-	background-color: black;
-	color: white;
-	font-family: "HackGenConsole";
-	font-style: italic;
-}
-
-a{
-	color: blue;
+h1 {
+	font-size: 50px;
+	color: rgba(255, 47, 47, 1);
 }
