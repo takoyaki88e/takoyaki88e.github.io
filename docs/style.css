@@ -1,0 +1,23 @@
+body {
+	color: #e0e0e0;
+	background-image: url(../default/background.png);
+	font-family: "../HackGen.ttf";
+}
+
+.MenuTile {
+	background-color: rgba(186, 186, 186, 0.5);
+	background-size: cover;
+	height: 150px;
+}
+
+span {
+	color: #e0e0e0;
+}
+
+a {
+	line-height: 4px;
+}
+
+.inline {
+	display: inline-block;
+}
