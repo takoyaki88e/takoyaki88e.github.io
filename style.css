@@ -1,7 +1,7 @@
 body {
 	color: #e0e0e0;
-	background-image: url(../default/background.png);
-	font-family: "../HackGen.ttf";
+	background-image: url(./default/background.png);
+	font-family: "./HackGen.ttf";
 }
 
 .MenuTile {
