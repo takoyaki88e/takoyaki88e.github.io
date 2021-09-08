@@ -1,13 +1,13 @@
 body {
 	color: #e0e0e0;
-	background-image: url(./default/BackGround.png);
-	font-family: "./HackGen.ttf";
+	background-image: url(../default/background.png);
+	font-family: "../HackGen.ttf";
 }
 
 .MenuTile {
-	background-color: rgba(186, 186, 186, 0.5);
+	background-color: rgba(186, 186, 186, 0.75);
 	background-size: cover;
-	height: 150px;
+	padding-bottom: 1%;
 }
 
 span {
@@ -15,7 +15,8 @@ span {
 }
 
 a {
-	line-height: 4px;
+	font-size: 80%;
+	line-height: 40%
 }
 
 .inline {
