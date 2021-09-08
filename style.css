@@ -1,7 +1,13 @@
+@font-face {
+	font-family: "HackGen";
+	src: url("../default/HackGen35Nerd-Regular.woff2") format("woff2"),
+		url("HackGen35Nerd-Regular.woff") format("woff");
+}
+
 body {
 	color: #e0e0e0;
 	background-image: url(../default/BackGround.png);
-	font-family: "../HackGen.ttf";
+	font-family: "HackGen";
 }
 
 .MenuTile {
