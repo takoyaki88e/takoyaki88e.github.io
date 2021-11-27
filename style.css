@@ -11,11 +11,13 @@ body {
 }
 
 h1 {
-	font-size: 20px;
+	font-size: 250%;
 }
 
 h3 {
-	font-size: 15px;
+	font-size: 160%;
+	margin-bottom: 20px;
+	color: rgba(0, 0, 0, 1)
 }
 
 .MenuTile {
@@ -28,11 +30,26 @@ span {
 	color: #e0e0e0;
 }
 
+.btn {
+	background-color: #fff;
+	color: #000;
+	text-align: center;
+	padding: 6px 1px 6px 2px;
+	margin: 4px;
+	height: 25px;
+	transition: .3s;
+}
+
 a {
-	font-size: 80%;
-	line-height: 40%
+	font-size: 110%;
+	line-height: 20%;
+	text-decoration: none;
 }
 
 .inline {
 	display: inline-block;
+}
+
+.block {
+	display: block;
 }
