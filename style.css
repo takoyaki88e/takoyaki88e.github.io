@@ -43,8 +43,6 @@ span {
 
 .btn:hover {
 	color: rgba(0, 26, 203, 1);
-	border: solid 2px red;
-	font-size: 100%;
 }
 
 a {
